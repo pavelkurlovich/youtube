@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  font-size: 20px;
+  background-color: rgb(148, 74, 74);
+}
+
+.playList {
+  display: grid;
+  grid-template-rows: 330px 330px 330px;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.youtube {
+  
+}
+
+.movie-over p {
+  background-color: fff;
+  height: 100px;
+}
